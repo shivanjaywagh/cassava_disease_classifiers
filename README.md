@@ -8,3 +8,5 @@
  - Use a 4 model avg ensemble for better result.
  
  - Use snapshot ensembling if required
+
+- Library used: pytorch for modeling and data loader.
